@@ -1,12 +1,8 @@
 sword and song
 wall
 
-<<<<<<< HEAD
 stand strong
 
 new content here
 and here
 and
-=======
-stand strong
->>>>>>> f2128fe0c7bf115f4ace414a54f95425b2bca346
